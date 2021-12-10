@@ -1,10 +1,18 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
 .jumbotron {
   padding-top: 6rem;
-  background-color: #e2edff;
+  background-image: url(img/idonk1.jpg);
+  color: aliceblue;
 }
 #projects {
-  background-color: #e2edff;
+  background-color: #000000;
 }
 section {
   padding-top: 5rem;
+}
+
+footer {
+  background-color: #000000;
 }
