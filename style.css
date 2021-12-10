@@ -4,7 +4,9 @@ body {
 .jumbotron {
   padding-top: 6rem;
   background-image: url(img/idonk1.jpg);
+  background-position: center;
   color: aliceblue;
+  font-family: "Kaushan Script", cursive;
 }
 #projects {
   background-color: #000000;
@@ -15,4 +17,6 @@ section {
 
 footer {
   background-color: #000000;
+}
+#HOME {
 }
