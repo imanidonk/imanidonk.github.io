@@ -12,6 +12,11 @@ body {
 #projects {
   background-color: #000000;
 }
+
+nav ul li a {
+  font-family: "Montserrat", sans-serif;
+  color: rgb(107, 104, 104);
+}
 section {
   padding-top: 5rem;
 }
